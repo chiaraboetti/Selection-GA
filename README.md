@@ -15,4 +15,4 @@ This project focuses on the analysis of four Selection methods of Genetic Algori
 
 - Truncation Selection.
 
-In particular, performances and computational costs ared compared when using two different data structures.
+Performances and computational costs are compared when using different data structures.
